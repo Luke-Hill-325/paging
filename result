@@ -1,0 +1,21 @@
+fifo stats:
+RunStats {
+    hits: 735,
+    faults: 4264,
+    hit_ratio: 0.14702940588117624,
+    fault_ratio: 0.8529705941188238,
+}
+LRU stats:
+RunStats {
+    hits: 2332,
+    faults: 2667,
+    hit_ratio: 0.46649329865973194,
+    fault_ratio: 0.533506701340268,
+}
+Optimal stats:
+RunStats {
+    hits: 1868,
+    faults: 3131,
+    hit_ratio: 0.3736747349469894,
+    fault_ratio: 0.6263252650530106,
+}
